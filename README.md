@@ -5,6 +5,50 @@
       "names": "Movie",
       "videos": [
         {
+          "descriptions": "Radio Tele Silo",
+          "source": [
+            "[https://jr7yv9gmla4v-hls-live.5centscdn.com/radiotvsilo/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8"
+          ],
+          "subtitles": "By Channel",
+          "thumbs": "https://od.lk/s/NDZfNTg4MjI5NDhf/Silotv.jpg",
+          "titles": "RADIO TELE SILO"
+        },
+        {
+          "descriptions": "CBC TV est une chaîne privée de la RDCONGO émettant à Kinshasa",
+          "source": [
+            "https://stream.berosat.live:19360/cbc-tv/cbc-tv.m3u8"
+          ],
+          "subtitles": "By Channel",
+          "thumbs": "https://od.lk/s/NDZfNTg4NDg5NTFf/cbctv.jpg",
+          "titles": "CBC TV"
+        },
+        {
+          "descriptions": "Congo tv est l'une des Radio Generaliste avec la diversite sans stop de la Musique Rumba, Ndombolo, Gospel, Prédications et autres... Sans oublier des Emissions special de tout genre. Veuillez nous contacter : congomonpays243@gmail.com",
+          "source": [
+            "https://stream.berosat.live:19360/bero-tv/bero-tv.m3u8"
+          ],
+          "subtitles": "By Channel",
+          "thumbs": "https://od.lk/s/NzNfNzcwMjI0ODNf/congofmGospel.jpg",
+          "titles": "CONGO TV"
+        },
+        {
+          "descriptions": "Metanoia Ministries, un ministère d’enseignements chrétiens œuvrant dans l’audiovisuel et la technologie au travers de sa chaîne de télévision Metanoia Tv diffusant ses programmes 24/7 sur la TNT (à Kinshasa et Brazzaville) et à travers le monde entier via notre plate-forme numérique disponible sur le web (www.metanoia.tv), sur PlayStore (Metanoia Tv) et très bientôt sur Apple Store.",
+          "source": [
+            "https://tnt-television.com/METANOIA-STREAM1/index.m3u8"
+          ],
+          "subtitles": "By Channel",
+          "thumbs": "https://od.lk/s/M18yODU5ODc2NDdf/metanoia.png",
+          "titles": "ALGERIA"
+        }
+      ]
+    }
+  ]
+}
+        
+        
+        
+        
+        {
           "descriptions": "ALGERIA",
           "source": [
             "http://69.64.208/algeria/index.m3u89"
