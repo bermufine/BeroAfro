@@ -41,9 +41,6 @@
           "titles": "CBC TV"
     },
     {
-      "names": "Movie",
-      "videos": [
-        {
           "descriptions": "ALGERIA",
           "source": [
             "http://69.64.208/algeria/index.m3u89"
