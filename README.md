@@ -4,6 +4,52 @@
     {
       "names": "Movie",
       "videos": [  
+           {
+          "descriptions": "Boss Brother est la premier chaine de la Diaspora Congolaise Europe & Americque SepelaTV canal 121 En RDC et Afrique sur StarTimes Canal 776 Afrique et Europe sur IntelSat frequence: 401 1599 - Hortizontal Facebook LIVE Diffusée en direct sur www.thebossbrothers.co.uk/ contact-thebossbrothersstudio@gmail.com et +44 7802 730590",
+          "source": [
+            "http://37.187.138.41:80/BOSSBROTHERSTV/index.m3u8"
+          ],
+          "subtitles": "By Channel",
+          "thumbs": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQql4D9wYvXjE1pxnQz_JvdznoJplG_ylrQNg&usqp=CAU.jpg",
+          "titles": "BOSS BROTHER"
+    },
+     {
+          "descriptions": "champion tv est une chaîne panafricaine à caractère business pour la promotion du shopping, l’entrepreneuriat , Économie -culture et autres activités génératrices de de revenus",
+          "source": [
+            "https://stream.berosat.live:19360/champion-tv/champion-tv.m3u8"
+          ],
+          "subtitles": "By Channel",
+          "thumbs": "https://od.lk/s/NDZfNTA0NTIyODhf/championtv.jpg",
+          "titles": "CHAMPION TV"
+    },
+    {
+          "descriptions": "Evi TV votre chaine en evenementiel qui propose une programmation variée pour toute la famille. Elle diffuse des émissions de divertissement, des séries, des films, des documentaires, des informations ainsi que des programmes pour les enfants. Avec des contenus de qualité et des animateurs charismatiques. EVI TV vous offre une expérience télévisuelle unique et divertissante. Restez connectés avec l'actualité et profitez de moment de détente en regardant EVI TV. Pour tout contact : evitvrdc5@gmail.com",
+          "source": [
+            "https://stream.berosat.live:19360/evi-tv/evi-tv.m3u8"
+          ],
+          "subtitles": "By Channel",
+          "thumbs": "https://od.lk/s/NzNfODAzNDM1MTBf/evitvtree.jpg",
+          "titles": "EVI TV"
+    },
+    {
+          "descriptions": "CBC TV est une chaîne privée de la RDCONGO émettant à Kinshasa",
+          "source": [
+            "https://stream.berosat.live:19360/cbc-tv/cbc-tv.m3u8"
+          ],
+          "subtitles": "By Channel",
+          "thumbs": "https://od.lk/s/NDZfNTg4NDg5NTFf/cbctv.jpg",
+          "titles": "CBC TV"
+        }
+      ]
+    }
+  ]
+}
+
+
+
+
+
+
     {
           "descriptions": "ALGERIA",
           "source": [
@@ -490,45 +536,6 @@
           "thumbs": "https://od.lk/s/M18yOTU0MzA3NzZf/Zimbabwe.png",
           "titles": "ZIMBABWE"
         }
-      ]
-    }
-  ]
-}
+  
 
 
- {
-          "descriptions": "Boss Brother est la premier chaine de la Diaspora Congolaise Europe & Americque SepelaTV canal 121 En RDC et Afrique sur StarTimes Canal 776 Afrique et Europe sur IntelSat frequence: 401 1599 - Hortizontal Facebook LIVE Diffusée en direct sur www.thebossbrothers.co.uk/ contact-thebossbrothersstudio@gmail.com et +44 7802 730590",
-          "source": [
-            "http://37.187.138.41:80/BOSSBROTHERSTV/index.m3u8"
-          ],
-          "subtitles": "By Channel",
-          "thumbs": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQql4D9wYvXjE1pxnQz_JvdznoJplG_ylrQNg&usqp=CAU.jpg",
-          "titles": "BOSS BROTHER"
-    },
-     {
-          "descriptions": "champion tv est une chaîne panafricaine à caractère business pour la promotion du shopping, l’entrepreneuriat , Économie -culture et autres activités génératrices de de revenus",
-          "source": [
-            "https://stream.berosat.live:19360/champion-tv/champion-tv.m3u8"
-          ],
-          "subtitles": "By Channel",
-          "thumbs": "https://od.lk/s/NDZfNTA0NTIyODhf/championtv.jpg",
-          "titles": "CHAMPION TV"
-    },
-    {
-          "descriptions": "Evi TV votre chaine en evenementiel qui propose une programmation variée pour toute la famille. Elle diffuse des émissions de divertissement, des séries, des films, des documentaires, des informations ainsi que des programmes pour les enfants. Avec des contenus de qualité et des animateurs charismatiques. EVI TV vous offre une expérience télévisuelle unique et divertissante. Restez connectés avec l'actualité et profitez de moment de détente en regardant EVI TV. Pour tout contact : evitvrdc5@gmail.com",
-          "source": [
-            "https://stream.berosat.live:19360/evi-tv/evi-tv.m3u8"
-          ],
-          "subtitles": "By Channel",
-          "thumbs": "https://od.lk/s/NzNfODAzNDM1MTBf/evitvtree.jpg",
-          "titles": "EVI TV"
-    },
-    {
-          "descriptions": "CBC TV est une chaîne privée de la RDCONGO émettant à Kinshasa",
-          "source": [
-            "https://stream.berosat.live:19360/cbc-tv/cbc-tv.m3u8"
-          ],
-          "subtitles": "By Channel",
-          "thumbs": "https://od.lk/s/NDZfNTg4NDg5NTFf/cbctv.jpg",
-          "titles": "CBC TV"
-    },
