@@ -5,16 +5,7 @@
       "names": "Movie",
       "videos": [  
              {
-          "descriptions": "Boss Brother est la premier chaine de la Diaspora Congolaise Europe & Americque SepelaTV canal 121 En RDC et Afrique sur StarTimes Canal 776 Afrique et Europe sur IntelSat frequence: 401 1599 - Hortizontal Facebook LIVE Diffusée en direct sur www.thebossbrothers.co.uk/ contact-thebossbrothersstudio@gmail.com et +44 7802 730590",
-          "source": [
-            "http://37.187.138.41:80/BOSSBROTHERSTV/index.m3u8"
-          ],
-          "subtitles": "By Channel",
-          "thumbs": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQql4D9wYvXjE1pxnQz_JvdznoJplG_ylrQNg&usqp=CAU.jpg",
-          "titles": "BOSS BROTHER"
-    },
-     {
-          "descriptions": "champion tv est une chaîne panafricaine à caractère business pour la promotion du shopping, l’entrepreneuriat , Économie -culture et autres activités génératrices de de revenus",
+          "descriptions": "champion tv est une chaîne panafricaine à caractère business pour la promotion du shopping, l’entrepreneuriat , Économie -culture et autres activités génératrices de de revenus.",
           "source": [
             "https://stream.berosat.live:19360/champion-tv/champion-tv.m3u8"
           ],
@@ -22,50 +13,68 @@
           "thumbs": "https://od.lk/s/NDZfNTA0NTIyODhf/championtv.jpg",
           "titles": "CHAMPION TV"
     },
-    {
-          "descriptions": "Evi TV votre chaine en evenementiel qui propose une programmation variée pour toute la famille. Elle diffuse des émissions de divertissement, des séries, des films, des documentaires, des informations ainsi que des programmes pour les enfants. Avec des contenus de qualité et des animateurs charismatiques. EVI TV vous offre une expérience télévisuelle unique et divertissante. Restez connectés avec l'actualité et profitez de moment de détente en regardant EVI TV. Pour tout contact : evitvrdc5@gmail.com",
+     {
+          "descriptions": "TV La Capitale la chaîne est la chaîne d'information des régions de la côte d'ivoire basée a Yamoussoukro.",
           "source": [
-            "https://stream.berosat.live:19360/evi-tv/evi-tv.m3u8"
+            "https://stream.berosat.live:19360/tv-capitale-tream/tv-capitale-tream.m3u8"
           ],
           "subtitles": "By Channel",
-          "thumbs": "https://od.lk/s/NzNfODAzNDM1MTBf/evitvtree.jpg",
-          "titles": "EVI TV"
+          "thumbs": "https://od.lk/s/NDZfNzk0OTc0NDZf/capitaltv.jpg",
+          "titles": "TV LA CAPITALE"
     },
     {
-          "descriptions": "CBC TV est une chaîne privée de la RDCONGO émettant à Kinshasa",
+          "descriptions": "EXPLOITS TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne...",
           "source": [
-            "https://stream.berosat.live:19360/kin-direct/kin-direct.m3u8"
+            "https://stream.berosat.live:19360/exploits-tv/exploits-tv.m3u8"
           ],
           "subtitles": "By Channel",
-          "thumbs": "https://od.lk/s/NDZfNTg4NDg5NTFf/cbctv.jpg",
-          "titles": "CBC TV"
+          "thumbs": "https://od.lk/s/NDZfNzU3OTA5NzBf/exploits.jpg",
+          "titles": "EXPLOITS TV"
+    },
+    {
+          "descriptions": "NSIA TV, votre fenêtre sur le monde de l'assurance et de la banque, offre une programmation diversifiée qui allie information et divertissement. Plongez dans des émissions éducatives simplifiant pour vous les rouages complexes de l'assurance, de la Finance et des services bancaires. NSIA TV propose également une variété de programmes divertissants pour tous les membres de la famille. Une seule adresse. NSIA TV, LE VRAI VISAGE DE L’ASSURANCE ET DE LA BANQUE",
+          "source": [
+            "https://video1.getstreamhosting.com:1936/daqegamrnd/daqegamrnd/playlist.m3u8"
+          ],
+          "subtitles": "By Channel",
+          "thumbs": "https://od.lk/s/NzZfMTIyMTk4MDAyXw/nsiatv.jpg",
+          "titles": "NSIA TV"
         },
          {
-          "descriptions": "Golgotha télévision est une chaîne chrétienne généraliste émettant à partir de Lubumbashi en RDC. Sa ligne éditoriale est enracinée dans le christianisme faisant ainsi la promotion de l Evangile à travers sa diffente programmation. Une chaîne chrétienne généraliste qui permet aux chrétiens et non chrétiens de s informer, de se divertir avec des programmes responsables",
+          "descriptions": "JERUBAAL TV, est une chaîne télévision qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
           "source": [
-            "https://stream.berosat.live:19360/golgotha-tv/golgotha-tv.m3u8"
+            "http://185.209.228.92:8080/hls/EGG_PRO_SERVEUR_IPTV@JERUBAAL_TV.m3u8"
           ],
           "subtitles": "By Channel",
-          "thumbs": "https://od.lk/s/NDZfODIyODA5MDdf/golgothatv.jp",
-          "titles": "GOLGOTHA TV"
+          "thumbs": "https://od.lk/s/NzZfMTIyMTk4MDAwXw/jerubaal.jpg",
+          "titles": "JERUBAAL TV"
         },
         {
-          "descriptions": "Bienvenue sur Baraka télévision, Nous sommes un centre d'information et de divertissement, fournissant des mises a jour d'actualités, des rapports de trafic, des prévisions météorologiques et podcasts captivants qui vous tiennent au courant. Nos hôtes expérimentés et compétents s'engagent dans des discussions animées, couvrant un large éventail de sujets, des événements actuels et des potins de célébrités aux tendances de style de vie et aux faits saillants sportifs. Nos adresses, nous sommes situé au numéro 9,avenue de la gare,quartier centre-ville, commune et ville de Likasi,dans la province du Haut-Katanga, en République Démocratique du Congo. Contacts: +243 99 537 11 46, +243 99 212 88 43, +243 82 68 36 111",
+          "descriptions": "P’AFRICA TV est une chaîne de télévision en ligne dédiée au divertissement et à l’information. Grâce à ses programmes variés, diffusés en direct ou disponibles en replay, elle constitue un excellent canal pour valoriser l’image de votre entreprise et accompagner ses ambitions. CONTACTS: +2250788422056/0596455112",
           "source": [
-            "https://stream.berosat.live:19360/baraka-hd/baraka-hd.m3u8"
+            "https://neriyastreaming.ddns.net/memfs/facb27fa-2f5a-4f06-8039-1c429b18dfba.m3u8"
           ],
           "subtitles": "By Channel",
-          "thumbs": "https://od.lk/s/NDZfODUzNDAzNzRf/barakatv.jpg",
-          "titles": "BARAKA TV"
+          "thumbs": "https://od.lk/s/NDZfODY2MzI5NDNf/pafrica.jpg",
+          "titles": "P'AFRICA TV"
         },
          {
-          "descriptions": "Esaie 45 tele est une chaine thematique a caractere religieux, apolitique; Nous prechons Jesus-Christ est Seigneur et le seul vrai Dieu. Nous sommes une plateforme d'evangelisation, d'hexhortation, d'education, d'encouragement et d'information. ESAIE 45 TELE vous accompagne pour la diffusion et la production audiovisuelle de vos contenus. Un instrument pour la groire du Dieu vivant, le pere de notre sauveur et seigneur Jesus-Christ. ESAIE 45 TELE, notre monde de la spiritualite.",
+          "descriptions": "Dream channel télévision est une chaine généraliste basée à yaoundé (cameroun) Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande scrawl, publicité, documentaire, achat d'espace télévision veillez contacter notre service commercial au 620010882 ou nous joindre au 694900394. Disponible sur : Créolink canal 300, Ebolowa, Digitel canal 108, Sweecom Kribi canal 111, Sweecom yaoundé annalogique C34, Espress sat, Web tv, Connectik, Africa tv, Bafoussam, Jambo Sat. Dream channel télévision << la télévision à votre goût>>",
           "source": [
-            "https://stream.berosat.live:19360/esaie45-tv/esaie45-tv.m3u8"
+            "https://webtv.dreamtv.cm/memfs/8b4b79ca-4cad-43b8-960d-69e89f9f9018.m3u8"
           ],
           "subtitles": "By Channel",
-          "thumbs": "https://od.lk/s/NDZfNzgyMzYzNzJf/esaie45.jpg",
-          "titles": "ESAIE 45 TELE"
+          "thumbs": "https://od.lk/s/NDZfODI3ODcxMTNf/dreamChannel.jpg",
+          "titles": "DREAM CHANNEL"
+        },
+        {
+          "descriptions": "JESUS Sauveur des Nations, est une chaîne télévision qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation..",
+          "source": [
+            "https://stream.berosat.live:19360/jsn-tv/jsn-tv.m3u8"
+          ],
+          "subtitles": "By Channel",
+          "thumbs": "https://od.lk/s/NDZfODU0MTAzNzlf/jsntv.jpg",
+          "titles": "JSN TV"
         }
       ]
     }
