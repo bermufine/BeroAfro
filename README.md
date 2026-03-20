@@ -4,91 +4,6 @@
     {
       "names": "Movie",
       "videos": [  
-              {
-          "descriptions": "champion tv est une chaîne panafricaine à caractère business pour la promotion du shopping, l’entrepreneuriat , Économie -culture et autres activités génératrices de de revenus.",
-          "source": [
-            "https://stream.berosat.live:19360/champion-tv/champion-tv.m3u8"
-          ],
-          "subtitles": "By Channel",
-          "thumbs": "https://od.lk/s/NDZfNTA0NTIyODhf/championtv.jpg",
-          "titles": "CHAMPION TV"
-    },
-     {
-          "descriptions": "TV La Capitale la chaîne est la chaîne d'information des régions de la côte d'ivoire basée a Yamoussoukro.",
-          "source": [
-            "https://stream.berosat.live:19360/tv-capitale-tream/tv-capitale-tream.m3u8"
-          ],
-          "subtitles": "By Channel",
-          "thumbs": "https://od.lk/s/NDZfNzk0OTc0NDZf/capitaltv.jpg",
-          "titles": "TV LA CAPITALE"
-    },
-    {
-          "descriptions": "EXPLOITS TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne...",
-          "source": [
-            "https://stream.berosat.live:19360/exploits-tv/exploits-tv.m3u8"
-          ],
-          "subtitles": "By Channel",
-          "thumbs": "https://od.lk/s/NDZfNzU3OTA5NzBf/exploits.jpg",
-          "titles": "EXPLOITS TV"
-    },
-    {
-          "descriptions": "NSIA TV, votre fenêtre sur le monde de l'assurance et de la banque, offre une programmation diversifiée qui allie information et divertissement. Plongez dans des émissions éducatives simplifiant pour vous les rouages complexes de l'assurance, de la Finance et des services bancaires. NSIA TV propose également une variété de programmes divertissants pour tous les membres de la famille. Une seule adresse. NSIA TV, LE VRAI VISAGE DE L’ASSURANCE ET DE LA BANQUE",
-          "source": [
-            "https://video1.getstreamhosting.com:1936/daqegamrnd/daqegamrnd/playlist.m3u8"
-          ],
-          "subtitles": "By Channel",
-          "thumbs": "https://od.lk/s/NzZfMTIyMTk4MDAyXw/nsiatv.jpg",
-          "titles": "NSIA TV"
-        },
-         {
-          "descriptions": "JERUBAAL TV, est une chaîne télévision qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
-          "source": [
-            "http://185.209.228.92:8080/hls/EGG_PRO_SERVEUR_IPTV@JERUBAAL_TV.m3u8"
-          ],
-          "subtitles": "By Channel",
-          "thumbs": "https://od.lk/s/NzZfMTIyMTk4MDAwXw/jerubaal.jpg",
-          "titles": "JERUBAAL TV"
-        },
-        {
-          "descriptions": "P’AFRICA TV est une chaîne de télévision en ligne dédiée au divertissement et à l’information. Grâce à ses programmes variés, diffusés en direct ou disponibles en replay, elle constitue un excellent canal pour valoriser l’image de votre entreprise et accompagner ses ambitions. CONTACTS: +2250788422056/0596455112",
-          "source": [
-            "https://neriyastreaming.ddns.net/memfs/facb27fa-2f5a-4f06-8039-1c429b18dfba.m3u8"
-          ],
-          "subtitles": "By Channel",
-          "thumbs": "https://od.lk/s/NDZfODY2MzI5NDNf/pafrica.jpg",
-          "titles": "P'AFRICA TV"
-        },
-         {
-          "descriptions": "Dream channel télévision est une chaine généraliste basée à yaoundé (cameroun) Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande scrawl, publicité, documentaire, achat d'espace télévision veillez contacter notre service commercial au 620010882 ou nous joindre au 694900394. Disponible sur : Créolink canal 300, Ebolowa, Digitel canal 108, Sweecom Kribi canal 111, Sweecom yaoundé annalogique C34, Espress sat, Web tv, Connectik, Africa tv, Bafoussam, Jambo Sat. Dream channel télévision << la télévision à votre goût>>",
-          "source": [
-            "https://webtv.dreamtv.cm/memfs/8b4b79ca-4cad-43b8-960d-69e89f9f9018.m3u8"
-          ],
-          "subtitles": "By Channel",
-          "thumbs": "https://od.lk/s/NDZfODI3ODcxMTNf/dreamChannel.jpg",
-          "titles": "DREAM CHANNEL"
-        },
-        {
-          "descriptions": "JESUS Sauveur des Nations, est une chaîne télévision qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation..",
-          "source": [
-            "https://stream.berosat.live:19360/jsn-tv/jsn-tv.m3u8"
-          ],
-          "subtitles": "By Channel",
-          "thumbs": "https://od.lk/s/NDZfODU0MTAzNzlf/jsntv.jpg",
-          "titles": "JSN TV"
-        }
-      ]
-    }
-  ]
-}
-
-
-
-
-
-
-
-
-      
         {
           "descriptions": "ALGERIA",
           "source": [
@@ -574,6 +489,86 @@
           "subtitles": "By Channel",
           "thumbs": "https://od.lk/s/M18yOTU0MzA3NzZf/Zimbabwe.png",
           "titles": "ZIMBABWE"
+        }
+      ]
+    }
+  ]
+}
+
+
+
+
+ {
+          "descriptions": "champion tv est une chaîne panafricaine à caractère business pour la promotion du shopping, l’entrepreneuriat , Économie -culture et autres activités génératrices de de revenus.",
+          "source": [
+            "https://stream.berosat.live:19360/champion-tv/champion-tv.m3u8"
+          ],
+          "subtitles": "By Channel",
+          "thumbs": "https://od.lk/s/NDZfNTA0NTIyODhf/championtv.jpg",
+          "titles": "CHAMPION TV"
+    },
+     {
+          "descriptions": "TV La Capitale la chaîne est la chaîne d'information des régions de la côte d'ivoire basée a Yamoussoukro.",
+          "source": [
+            "https://stream.berosat.live:19360/tv-capitale-tream/tv-capitale-tream.m3u8"
+          ],
+          "subtitles": "By Channel",
+          "thumbs": "https://od.lk/s/NDZfNzk0OTc0NDZf/capitaltv.jpg",
+          "titles": "TV LA CAPITALE"
+    },
+    {
+          "descriptions": "EXPLOITS TV est une chaîne généraliste chrétienne qui diffuse que des predications, des informations, musiques, magazine et autres chritienne...",
+          "source": [
+            "https://stream.berosat.live:19360/exploits-tv/exploits-tv.m3u8"
+          ],
+          "subtitles": "By Channel",
+          "thumbs": "https://od.lk/s/NDZfNzU3OTA5NzBf/exploits.jpg",
+          "titles": "EXPLOITS TV"
+    },
+    {
+          "descriptions": "NSIA TV, votre fenêtre sur le monde de l'assurance et de la banque, offre une programmation diversifiée qui allie information et divertissement. Plongez dans des émissions éducatives simplifiant pour vous les rouages complexes de l'assurance, de la Finance et des services bancaires. NSIA TV propose également une variété de programmes divertissants pour tous les membres de la famille. Une seule adresse. NSIA TV, LE VRAI VISAGE DE L’ASSURANCE ET DE LA BANQUE",
+          "source": [
+            "https://video1.getstreamhosting.com:1936/daqegamrnd/daqegamrnd/playlist.m3u8"
+          ],
+          "subtitles": "By Channel",
+          "thumbs": "https://od.lk/s/NzZfMTIyMTk4MDAyXw/nsiatv.jpg",
+          "titles": "NSIA TV"
+        },
+         {
+          "descriptions": "JERUBAAL TV, est une chaîne télévision qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation....",
+          "source": [
+            "http://185.209.228.92:8080/hls/EGG_PRO_SERVEUR_IPTV@JERUBAAL_TV.m3u8"
+          ],
+          "subtitles": "By Channel",
+          "thumbs": "https://od.lk/s/NzZfMTIyMTk4MDAwXw/jerubaal.jpg",
+          "titles": "JERUBAAL TV"
+        },
+        {
+          "descriptions": "P’AFRICA TV est une chaîne de télévision en ligne dédiée au divertissement et à l’information. Grâce à ses programmes variés, diffusés en direct ou disponibles en replay, elle constitue un excellent canal pour valoriser l’image de votre entreprise et accompagner ses ambitions. CONTACTS: +2250788422056/0596455112",
+          "source": [
+            "https://neriyastreaming.ddns.net/memfs/facb27fa-2f5a-4f06-8039-1c429b18dfba.m3u8"
+          ],
+          "subtitles": "By Channel",
+          "thumbs": "https://od.lk/s/NDZfODY2MzI5NDNf/pafrica.jpg",
+          "titles": "P'AFRICA TV"
+        },
+         {
+          "descriptions": "Dream channel télévision est une chaine généraliste basée à yaoundé (cameroun) Disponible 24/24 pour tout problème de promotion musicale, diffusion de bande scrawl, publicité, documentaire, achat d'espace télévision veillez contacter notre service commercial au 620010882 ou nous joindre au 694900394. Disponible sur : Créolink canal 300, Ebolowa, Digitel canal 108, Sweecom Kribi canal 111, Sweecom yaoundé annalogique C34, Espress sat, Web tv, Connectik, Africa tv, Bafoussam, Jambo Sat. Dream channel télévision << la télévision à votre goût>>",
+          "source": [
+            "https://webtv.dreamtv.cm/memfs/8b4b79ca-4cad-43b8-960d-69e89f9f9018.m3u8"
+          ],
+          "subtitles": "By Channel",
+          "thumbs": "https://od.lk/s/NDZfODI3ODcxMTNf/dreamChannel.jpg",
+          "titles": "DREAM CHANNEL"
+        },
+        {
+          "descriptions": "JESUS Sauveur des Nations, est une chaîne télévision qui nous réconcilie avec le CHRIST, Évangélisations, Prédications et Enseignants de la Parole de DIEU, Prières d’impact, Transformation..",
+          "source": [
+            "https://stream.berosat.live:19360/jsn-tv/jsn-tv.m3u8"
+          ],
+          "subtitles": "By Channel",
+          "thumbs": "https://od.lk/s/NDZfODU0MTAzNzlf/jsntv.jpg",
+          "titles": "JSN TV"
         }
       ]
     }
